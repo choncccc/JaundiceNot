@@ -25,5 +25,5 @@ BSize = 32
 LearningRate = 0.0001
 Loss = 1.6861
 Accuracy = 0.8158
-Precision =  0.8158 
+Precision =  0.8571
 Recall = Di ako naglagay 
