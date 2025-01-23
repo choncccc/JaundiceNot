@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 First Train
 Epoch = 20
 BSize = 32
