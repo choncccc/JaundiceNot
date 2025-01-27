@@ -27,3 +27,12 @@ Loss = 1.6861
 Accuracy = 0.8158
 Precision =  0.8571
 Recall = Di ako naglagay 
+
+4th train - WITH ALL features for training, test and validation
+Epoch = 30
+Batch Size = 16
+LearningRate = 0.0001
+Accuracy = 0.5526
+Loss = 0.6876
+Precision = 0
+Recall = Di ako naglagay 
