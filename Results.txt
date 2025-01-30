@@ -37,3 +37,12 @@ Loss = 1.5165
 Accuracy = 0.7632
 Precision =  0.7222
 Recall = Di ako naglagay 
+
+5th Train
+Epoch = 50
+BSize = 64
+LearningRate = 0.0005
+Loss = 1.2539
+Accuracy = 0.7368
+Precision =  0.6667
+Recall = .67 .82
