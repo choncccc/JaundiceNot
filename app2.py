@@ -28,9 +28,10 @@ def predict():
     prediction = model.predict(image)[0][0]
     predicted_label = 1 if prediction >= 0.30 else 0  
 
-    print(f"Predicted Label: {prediction}")  # Print the predicted label
+    print(f"Predicted Label: {prediction}")
 
-    return jsonify({'prediction': str(predicted_label)})
+    return jsonify({'prediction': str(predicted_label), 'confidence': str(prediction)})
 
 if __name__ == '__main__':
-    app.run(host='192.168.100.7', port=5000, debug=True)
+    #app.run(host='192.168.100.7', port=5000, debug=True) #IP sa PC
+    app.run(host='192.168.246.74', port=5000, debug=True) #IP sa Lapppy
