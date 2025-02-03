@@ -50,3 +50,13 @@ Loss = 1.2539
 Accuracy = 0.7368
 Precision =  0.6667
 Recall = .67 .82
+
+
+6th Train using Histogram
+Epoch = 30
+Batch Size = 16
+LR = 0.0005
+Loss = 0.3504
+Accuracy = 0.9833
+Precision = 100
+Recall = 
