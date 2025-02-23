@@ -1,0 +1,27 @@
+Testings (Callbacks and Learning Rate = 0.0005) + 4 Layers 512...64
+
+With Augmentation - Histogram
+	- 50 E and 8 BS =  Test Accuracy: 0.9833, Test Precision: 1.0000, Test Recall: 0.9636
+Best Case- 50 E and 16 BS = Test Accuracy: 0.9917, Test Precision: 1.0000, Test Recall: 0.9818
+	- 50 E and 32 BS  = Test Accuracy: 0.9556, Test Precision: 0.9462, Test Recall: 0.9462
+	- 50 E and 64 BS =  Test Accuracy: 0.9346, Test Precision: 0.9565, Test Recall: 0.9225
+	- 100 E and 64 BS = Test Accuracy: 0.9346, Test Precision: 0.9256, Test Recall: 0.9225
+	- 100 E and 32 BS = Test Accuracy: 0.9625, Test Precision: 0.9272, Test Recall: 0.9365
+	- 100 E and 16 BS = Test Accuracy: 0.9821, Test Precision: 0.9462, Test Recall: 0.9462
+	- 100 E and 8 BS = Test Accuracy: 0.9633, Test Precision: 0.9460, Test Recall: 0.9450
+
+
+With Augmentation - KMeans
+	- 50 E and 8 BS = Test Accuracy: 0.7667, Test Precision: 0.7547, Test Recall: 0.7273
+	- 50 E and 16 BS = Test Accuracy: 0.7500, Test Precision: 0.7660, Test Recall: 0.6545
+	- 50 E and 32 BS  = Test Accuracy: 0.7917, Test Precision: 0.8261, Test Recall: 0.6909
+Best Case - 50 E and 64 BS =  Test Accuracy: 0.7917, Test Precision: 0.8409, Test Recall: 0.6727 
+	- 100 E and 64 BS = Test Accuracy: 0.7750, Test Precision: 0.8333, Test Recall: 0.6364
+	- 100 E and 32 BS = Test Accuracy: 0.7500, Test Precision: 0.7358, Test Recall: 0.7091
+	- 100 E and 16 BS = Test Accuracy: 0.7083, Test Precision: 0.7174, Test Recall: 0.6000
+	- 100 E and 8 BS = Test Accuracy: 0.6917, Test Precision: 0.6607, Test Recall: 0.6727
+
+
+
+
+
