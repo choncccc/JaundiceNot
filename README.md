@@ -1,3 +1,11 @@
-FINAL USING HISTOGRAM AND MLP: Accuracy: 99.17% || Precision: 100 || Recall: 98.18 @ 50 Epoch and 16 Batch Size with Callbacks using LeakyReLU as activation
+## Thesis (not the latest commit cause na format ko na pc ko)
 
- 
+### JaundiceNot
+Machine Learning model that diagnose Jaundice and assesing its severity.
+Experiment consist of:
+• Experimenting on different color spaces (CMYK and CieLAB)
+• Experimenting on different on color extraction methods (KMeans and Histogram)
+• With Mobile Application
+
+
+## Result: 100% Accuracy, 100% Precision, 100% Recall
