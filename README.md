@@ -1,4 +1,4 @@
-D## Thesis (not the latest commit cause na format ko na pc ko)
+## Thesis (not the latest commit cause na format ko na pc ko)
 
 ### JaundiceNot
 Machine Learning model that diagnose Jaundice and assesing its severity.  
